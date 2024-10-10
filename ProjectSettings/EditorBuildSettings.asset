@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scripts/1. Singleton/Singleton Test.unity
+    guid: 9fc0d4010bbf28b4594072e72b8655ab
+  - enabled: 1
+    path: Assets/Scripts/1. Singleton/Init1.unity
+    guid: 96bc18c0627c1eb44806933ab2403b29
+  - enabled: 1
+    path: Assets/Scripts/1. Singleton/Init2.unity
+    guid: 50b21e6b81c89e145b88a0cb4cd59e77
+  m_configObjects: {}
